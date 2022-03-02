@@ -1,8 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I'm Kim
+- 🔭 I’m currently working on [Project Euler](https://projecteuler.net/about) challenges and an automated QA tool for checking Japanese numbers
+- 🌱 I’m currently learning React
+- 👯 I’m looking to collaborate on exciting projects
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kimberley-m-049a5083/)
 
 [![Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-morgan&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<!-- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-morgan&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-morgan&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 **kim-morgan/kim-morgan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
