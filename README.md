@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Kim
 - 🔭 I’m currently working on [Project Euler](https://projecteuler.net/about) challenges and an automated QA tool for checking Japanese numbers
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Scala
 - 👯 I’m looking to collaborate on exciting projects
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kimberley-m-049a5083/)
 
