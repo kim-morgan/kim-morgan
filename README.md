@@ -4,10 +4,6 @@
 - 👯 I’m looking to collaborate on exciting projects
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kimberley-m-049a5083/)
 
-[![Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-morgan&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-morgan&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
-
 <!--
 **kim-morgan/kim-morgan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
